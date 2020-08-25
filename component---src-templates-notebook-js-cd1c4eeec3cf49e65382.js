@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[10],{"+PuH":function(e,t,n){"use strict";n.r(t),n.d(t,"query",(function(){return i}));var a=n("q1tI"),o=n.n(a),r=n("Wbzz"),u=n("Bl7J"),c=n("3bV6"),l=n.n(c),i="1298095685";t.default=function(e){var t=e.data.jupyterNotebook,n=(t.html,t.internal.content);return o.a.createElement(u.a,null,o.a.createElement(r.Link,{to:"/"},"Go back to the homepage"),o.a.createElement(l.a,{notebook:JSON.parse(n)}))}}}]);
-//# sourceMappingURL=component---src-templates-notebook-js-cd1c4eeec3cf49e65382.js.map
